@@ -23,7 +23,7 @@ The following **required** functionality is completed:
     </a>
   </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
 
 ## App Brainstorming (Step 4)
 
